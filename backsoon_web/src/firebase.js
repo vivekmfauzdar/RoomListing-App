@@ -11,14 +11,7 @@ import { getDatabase} from 'firebase/database'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBe_G9IjVYEMzSxpE6Ap0HZ4vZfudBO5Dk",
-  authDomain: "backsoon-b45d6.firebaseapp.com",
-  databaseURL: "https://backsoon-b45d6-default-rtdb.firebaseio.com",
-  projectId: "backsoon-b45d6",
-  storageBucket: "backsoon-b45d6.appspot.com",
-  messagingSenderId: "812143748962",
-  appId: "1:812143748962:web:b2fcd26f7adfcba99e6e3b",
-  measurementId: "G-TSCZL915CM"
+ // FIREBASE CREDENTIALS HERE
 };
 
 // Initialize Firebase
