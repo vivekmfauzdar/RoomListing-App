@@ -4,9 +4,9 @@ import { useLocation } from 'react-router-dom';
 
 
 // const apiKey = import.meta.env.FIREBASE_PLACESAPI_KEY;
-const apiKey = `AIzaSyBe_G9IjVYEMzSxpE6Ap0HZ4vZfudBO5Dk`;
-const mapApiJs = 'https://maps.googleapis.com/maps/api/js';
-const geocodeJson = 'https://maps.googleapis.com/maps/api/geocode/json'
+const apiKey = "YOUR API KEY";
+const mapApiJs = '';
+const geocodeJson = ''
 
 
 // load google map api js
